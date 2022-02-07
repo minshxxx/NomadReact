@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/NomadReact/static/js/main.796fcbbb.js",
+    "main.js": "/NomadReact/static/js/main.b54235ef.js",
     "index.html": "/NomadReact/index.html",
-    "main.796fcbbb.js.map": "/NomadReact/static/js/main.796fcbbb.js.map"
+    "main.b54235ef.js.map": "/NomadReact/static/js/main.b54235ef.js.map"
   },
   "entrypoints": [
-    "static/js/main.796fcbbb.js"
+    "static/js/main.b54235ef.js"
   ]
 }
